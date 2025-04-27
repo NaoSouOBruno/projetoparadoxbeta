@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddpfk11g0iijh"]
+
+[ext_resource type="Texture2D" uid="uid://dpbwgggryb0jw" path="res://1.png" id="1_4s8tl"]
+
+[node name="Cena1" type="Node2D"]
+
+[node name="Logo" type="TextureRect" parent="."]
+offset_left = 166.0
+offset_top = -86.0
+offset_right = 966.0
+offset_bottom = 714.0
+size_flags_horizontal = 4
+texture = ExtResource("1_4s8tl")
