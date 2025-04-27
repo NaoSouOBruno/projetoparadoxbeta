@@ -1,4 +1,4 @@
 # projetoparadoxbeta
  
 
-<h1> teste </h1>
+<h1> ✨ | Boas vindas ao projeto PARADOX </h1>
