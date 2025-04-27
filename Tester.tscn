@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://q05osxpgjmot"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="ShapeCast3D" type="ShapeCast3D" parent="."]
