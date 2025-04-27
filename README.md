@@ -1,0 +1,2 @@
+# projetoparadoxbeta
+ 
